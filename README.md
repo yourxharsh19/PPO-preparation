@@ -22,24 +22,6 @@ This repo documents my journey to crack a **Pre-Placement Offer** before my 4th 
 **Database:** MySQL  
 **Tools:** IntelliJ IDEA, VS Code, Git, Maven  
 
----
-
-## 📅 Daily Task Tracker
-
-| Day  | Date       | DSA                          | JavaScript / React              | Backend (Spring Boot)          | Status    |
-|------|-----------|------------------------------|---------------------------------|--------------------------------|------------|
-| Day 1| 18-08-2025| ✅ Two Sum, Buy & Sell Stock | ✅ JS Basics: let/const, functions | ✅ Spring Boot Hello API       | ✅     |
-| Day 2| 19-08-2025| ⬜ Remove Duplicates         | ⬜ React: Components, Props     | ⬜ REST API Basics             | 🔄        |
-| Day 3| 20-08-2025| ⬜ Arrays Rotation           | ⬜ React: State & Hooks         | ⬜ Service Layer               | ❌        |
-| Day 4| 21-08-2025| ⬜ Strings Intro             | ⬜ React Router                 | ⬜ JPA & Database              | ❌        |
-| Day 5| 22-08-2025| ⬜ Recursion Basics          | ⬜ API Integration              | ⬜ JWT Authentication          | ❌        |
-
-**Legend:**  
-✅ = Done | 🔄 = In Progress | ❌ = Not Started | ⬜ = Pending  
-
-
----
-
 ## 📈 Overall Progress
 
 ### ✅ **DSA**
