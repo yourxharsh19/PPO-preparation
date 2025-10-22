@@ -16,7 +16,7 @@
  *  - -10^4 <= nums[i] <= 10^4
  */
 
-class MaxSubarray {
+class MaxSubArray2 {
     public double findMaxAverage(int[] nums, int k) {
         int maxSum = 0; 
         int windowSum = 0;

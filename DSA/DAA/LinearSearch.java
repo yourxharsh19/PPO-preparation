@@ -2,8 +2,8 @@ package DSA.DAA;
  
 public class LinearSearch {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 5};
-        int target = 3;
+        int[] arr = {3,5,7,9,11};
+        int target = 7;
         int index = linearSearch(arr, target);
         if (index == -1) {
             System.out.println("Element not found");

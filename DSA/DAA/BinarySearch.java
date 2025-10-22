@@ -2,8 +2,8 @@ package DSA.DAA;
 
 public class BinarySearch {
     public static void main(String []args){
-        int[] arr = {1, 2, 3, 4, 5};
-        int target = 3;
+        int[] arr = {2,4,6,8,10,12,14};
+        int target = 10;
         int index = binarySearch(arr, target);
         if (index == -1) {
             System.out.println("Element not found");
