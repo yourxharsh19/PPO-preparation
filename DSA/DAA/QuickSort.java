@@ -2,10 +2,10 @@ package DSA.DAA;
 
 public class QuickSort {
       public static void main (String args[]){
-          int arr[]={5,4,3,2,1};
+          int arr[]={5,6,7,2,1};
           quickSort(arr, 0, arr.length - 1);
           for(int i=0;i<arr.length;i++){
-                System.out.print(arr[i]+" ");
+                System.out.println(arr[i]+" ");
           }
       }
       public static void quickSort(int[] arr, int low, int high) {
