@@ -73,6 +73,7 @@ npm start
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yourxharsh19/PPO-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -82,4 +83,12 @@ npm start
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yourxharsh19/PPO-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
