@@ -91,8 +91,21 @@ npm start
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
