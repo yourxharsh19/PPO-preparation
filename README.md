@@ -82,6 +82,7 @@ npm start
 | ------- |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/yourxharsh19/PPO-preparation/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +101,7 @@ npm start
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/yourxharsh19/PPO-preparation/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
