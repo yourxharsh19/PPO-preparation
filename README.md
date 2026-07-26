@@ -83,6 +83,7 @@ npm start
 | ------- |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/yourxharsh19/PPO-preparation/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -93,6 +94,7 @@ npm start
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Trie
 |  |
@@ -101,6 +103,7 @@ npm start
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yourxharsh19/PPO-preparation/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
