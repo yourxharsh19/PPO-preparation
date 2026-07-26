@@ -69,6 +69,7 @@ npm start
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yourxharsh19/PPO-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -78,6 +79,7 @@ npm start
 | [0008-string-to-integer-atoi](https://github.com/yourxharsh19/PPO-preparation/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ npm start
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yourxharsh19/PPO-preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
 | ------- |
