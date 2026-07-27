@@ -78,6 +78,7 @@ npm start
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yourxharsh19/PPO-preparation/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
@@ -122,8 +123,13 @@ npm start
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
