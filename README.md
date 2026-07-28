@@ -84,6 +84,7 @@ npm start
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ npm start
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/yourxharsh19/PPO-preparation/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -145,4 +147,8 @@ npm start
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
