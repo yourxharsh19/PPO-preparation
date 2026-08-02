@@ -136,6 +136,7 @@ npm start
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/yourxharsh19/PPO-preparation/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
