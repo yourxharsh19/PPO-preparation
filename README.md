@@ -129,6 +129,7 @@ npm start
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
@@ -164,6 +165,7 @@ npm start
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -230,4 +232,8 @@ npm start
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
