@@ -161,6 +161,7 @@ npm start
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/yourxharsh19/PPO-preparation/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yourxharsh19/PPO-preparation/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -263,4 +264,8 @@ npm start
 | ------- |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yourxharsh19/PPO-preparation/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
