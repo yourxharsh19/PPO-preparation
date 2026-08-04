@@ -246,6 +246,7 @@ npm start
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -271,4 +272,8 @@ npm start
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yourxharsh19/PPO-preparation/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
