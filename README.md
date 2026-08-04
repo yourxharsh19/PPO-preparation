@@ -183,6 +183,7 @@ npm start
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,4 +277,5 @@ npm start
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
