@@ -73,6 +73,7 @@ npm start
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yourxharsh19/PPO-preparation/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ npm start
 | [0018-4sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
@@ -276,6 +278,11 @@ npm start
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
