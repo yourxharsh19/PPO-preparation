@@ -92,6 +92,7 @@ npm start
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/yourxharsh19/PPO-preparation/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
@@ -303,6 +304,7 @@ npm start
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
@@ -316,4 +318,8 @@ npm start
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
