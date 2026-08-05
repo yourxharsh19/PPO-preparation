@@ -74,6 +74,7 @@ npm start
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yourxharsh19/PPO-preparation/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
@@ -186,6 +187,7 @@ npm start
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
@@ -289,6 +291,7 @@ npm start
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0328-odd-even-linked-list) |
