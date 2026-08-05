@@ -80,6 +80,7 @@ npm start
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -145,6 +146,7 @@ npm start
 | [0215-kth-largest-element-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
@@ -306,6 +308,7 @@ npm start
 | ------- |
 | [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,4 +325,8 @@ npm start
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
