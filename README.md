@@ -297,4 +297,16 @@ npm start
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
