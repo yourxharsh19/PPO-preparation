@@ -126,6 +126,7 @@ npm start
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@ npm start
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
@@ -232,6 +234,7 @@ npm start
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
@@ -265,6 +268,7 @@ npm start
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 ## Minimax
 |  |
 | ------- |
