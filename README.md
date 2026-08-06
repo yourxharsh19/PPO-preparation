@@ -140,6 +140,7 @@ npm start
 | [0041-first-missing-positive](https://github.com/yourxharsh19/PPO-preparation/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
@@ -310,6 +311,7 @@ npm start
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourxharsh19/PPO-preparation/tree/master/0739-daily-temperatures) |
@@ -332,6 +334,11 @@ npm start
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourxharsh19/PPO-preparation/tree/master/0739-daily-temperatures) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
