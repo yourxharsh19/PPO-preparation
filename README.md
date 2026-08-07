@@ -116,6 +116,7 @@ npm start
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,6 +204,7 @@ npm start
 | [0160-intersection-of-two-linked-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -258,6 +260,7 @@ npm start
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -363,8 +366,13 @@ npm start
 | ------- |
 | [0155-min-stack](https://github.com/yourxharsh19/PPO-preparation/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/yourxharsh19/PPO-preparation/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/yourxharsh19/PPO-preparation/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
