@@ -100,6 +100,7 @@ npm start
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/yourxharsh19/PPO-preparation/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -300,6 +301,7 @@ npm start
 | [0021-merge-two-sorted-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -351,6 +353,7 @@ npm start
 | [0155-min-stack](https://github.com/yourxharsh19/PPO-preparation/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/yourxharsh19/PPO-preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourxharsh19/PPO-preparation/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
