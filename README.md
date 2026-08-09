@@ -177,6 +177,7 @@ npm start
 | [0860-lemonade-change](https://github.com/yourxharsh19/PPO-preparation/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -193,6 +194,7 @@ npm start
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -240,6 +242,7 @@ npm start
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
@@ -292,6 +295,7 @@ npm start
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -324,6 +328,7 @@ npm start
 | ------- |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
@@ -334,11 +339,13 @@ npm start
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
