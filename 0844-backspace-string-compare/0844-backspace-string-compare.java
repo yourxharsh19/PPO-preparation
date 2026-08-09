@@ -23,13 +23,11 @@ class Solution {
             }
         }
         if(stacks.size()!=stackt.size()) return false;
-        for(int i=0;i<s.length();i++){
             while(!stacks.isEmpty()&&!stackt.isEmpty()){
                 char ch1=stacks.pop();
                 char ch2=stackt.pop();
                 if(ch1!=ch2) return false;
             }
-        }
         return true;
     }
 }
