@@ -166,6 +166,7 @@ npm start
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/yourxharsh19/PPO-preparation/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/yourxharsh19/PPO-preparation/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/yourxharsh19/PPO-preparation/tree/master/0739-daily-temperatures) |
@@ -346,6 +347,7 @@ npm start
 | [0206-reverse-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/yourxharsh19/PPO-preparation/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -400,10 +402,12 @@ npm start
 | [0155-min-stack](https://github.com/yourxharsh19/PPO-preparation/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/yourxharsh19/PPO-preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
+| [0622-design-circular-queue](https://github.com/yourxharsh19/PPO-preparation/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/yourxharsh19/PPO-preparation/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/yourxharsh19/PPO-preparation/tree/master/0622-design-circular-queue) |
 ## Data Stream
 |  |
 | ------- |
