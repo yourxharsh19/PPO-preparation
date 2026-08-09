@@ -105,6 +105,7 @@ npm start
 | [0394-decode-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/yourxharsh19/PPO-preparation/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -221,6 +222,7 @@ npm start
 | [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/yourxharsh19/PPO-preparation/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -361,6 +363,7 @@ npm start
 | [0394-decode-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourxharsh19/PPO-preparation/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/yourxharsh19/PPO-preparation/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -409,4 +412,8 @@ npm start
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/yourxharsh19/PPO-preparation/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
