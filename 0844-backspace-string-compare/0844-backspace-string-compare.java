@@ -22,25 +22,14 @@ class Solution {
                 stackt.push(ch);
             }
         }
-        StringBuilder sb = new StringBuilder();
-
-        while (!stacks.isEmpty()) {
-            sb.append(stacks.pop());
+        if(stacks.size()!=stackt.size()) return false;
+        for(int i=0;i<s.length();i++){
+            while(!stacks.isEmpty()&&!stackt.isEmpty()){
+                char ch1=stacks.pop();
+                char ch2=stackt.pop();
+                if(ch1!=ch2) return false;
+            }
         }
-
-        String st1 = sb.toString();
-
-        StringBuilder sbr = new StringBuilder();
-
-        while (!stackt.isEmpty()) {
-            sbr.append(stackt.pop());
-        }
-
-        String st2 = sbr.toString();
-
-        if (st1.equals(st2)) {
-            return true;
-        }
-        return false;
+        return true;
     }
 }
