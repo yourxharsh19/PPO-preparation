@@ -78,6 +78,7 @@ npm start
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/yourxharsh19/PPO-preparation/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/yourxharsh19/PPO-preparation/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ npm start
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/yourxharsh19/PPO-preparation/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/yourxharsh19/PPO-preparation/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
