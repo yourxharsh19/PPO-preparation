@@ -12,37 +12,27 @@ class Solution {
         }
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
+
                 if (board[i][j] == '.')
                     continue;
-                if (rows[i].contains(board[i][j])) {
-                    return false;
-                } else {
-                    rows[i].add(board[i][j]);
-                }
-            }
-        }
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                if (board[i][j] == '.')
-                    continue;
-                if (cols[j].contains(board[i][j])) {
-                    return false;
-                } else {
-                    cols[j].add(board[i][j]);
-                }
-            }
-        }
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                if (board[i][j] == '.') continue;
+
                 int boxIndex = (i / 3) * 3 + (j / 3);
-                if (boxes[boxIndex].contains(board[i][j])) {
+
+                if (rows[i].contains(board[i][j]))
                     return false;
-                } else {
-                    boxes[boxIndex].add(board[i][j]);
-                }
+
+                if (cols[j].contains(board[i][j]))
+                    return false;
+
+                if (boxes[boxIndex].contains(board[i][j]))
+                    return false;
+
+                rows[i].add(board[i][j]);
+                cols[j].add(board[i][j]);
+                boxes[boxIndex].add(board[i][j]);
             }
         }
+
         return true;
     }
 }
