@@ -190,6 +190,7 @@ npm start
 | [0973-k-closest-points-to-origin](https://github.com/yourxharsh19/PPO-preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/yourxharsh19/PPO-preparation/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -325,6 +326,7 @@ npm start
 | [0451-sort-characters-by-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yourxharsh19/PPO-preparation/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/yourxharsh19/PPO-preparation/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/yourxharsh19/PPO-preparation/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
