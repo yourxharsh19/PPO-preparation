@@ -87,6 +87,7 @@ npm start
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/yourxharsh19/PPO-preparation/tree/master/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/yourxharsh19/PPO-preparation/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -149,6 +150,7 @@ npm start
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/yourxharsh19/PPO-preparation/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -183,6 +185,7 @@ npm start
 | [0739-daily-temperatures](https://github.com/yourxharsh19/PPO-preparation/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/yourxharsh19/PPO-preparation/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/yourxharsh19/PPO-preparation/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
