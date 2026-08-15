@@ -206,6 +206,7 @@ npm start
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yourxharsh19/PPO-preparation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -234,6 +235,7 @@ npm start
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yourxharsh19/PPO-preparation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
