@@ -171,6 +171,7 @@ npm start
 | [0018-4sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yourxharsh19/PPO-preparation/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
@@ -276,6 +277,7 @@ npm start
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
@@ -325,6 +327,7 @@ npm start
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yourxharsh19/PPO-preparation/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/yourxharsh19/PPO-preparation/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yourxharsh19/PPO-preparation/tree/master/0135-candy) |
