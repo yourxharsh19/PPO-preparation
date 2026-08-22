@@ -516,6 +516,7 @@ npm start
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
@@ -564,4 +565,8 @@ npm start
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yourxharsh19/PPO-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
