@@ -176,6 +176,7 @@ npm start
 | [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
@@ -521,12 +522,14 @@ npm start
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/yourxharsh19/PPO-preparation/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
 ## Nim Game
 |  |
