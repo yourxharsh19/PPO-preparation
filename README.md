@@ -177,6 +177,7 @@ npm start
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yourxharsh19/PPO-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/yourxharsh19/PPO-preparation/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yourxharsh19/PPO-preparation/tree/master/0135-candy) |
@@ -285,6 +286,7 @@ npm start
 | [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yourxharsh19/PPO-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
