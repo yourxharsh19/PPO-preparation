@@ -129,6 +129,7 @@ npm start
 | [0015-3sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yourxharsh19/PPO-preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0215-kth-largest-element-in-an-array) |
@@ -175,6 +176,7 @@ npm start
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourxharsh19/PPO-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -511,6 +513,7 @@ npm start
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
