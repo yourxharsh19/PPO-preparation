@@ -72,6 +72,7 @@ npm start
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yourxharsh19/PPO-preparation/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
@@ -177,6 +178,7 @@ npm start
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourxharsh19/PPO-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -524,6 +526,7 @@ npm start
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
 ## Nim Game
 |  |
 | ------- |
