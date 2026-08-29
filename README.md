@@ -150,6 +150,7 @@ npm start
 | [0973-k-closest-points-to-origin](https://github.com/yourxharsh19/PPO-preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -222,6 +223,7 @@ npm start
 | [1872-stone-game-viii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/yourxharsh19/PPO-preparation/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yourxharsh19/PPO-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -345,6 +347,7 @@ npm start
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
 |  |
 | ------- |
