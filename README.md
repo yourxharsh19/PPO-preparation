@@ -222,6 +222,7 @@ npm start
 | [1563-stone-game-v](https://github.com/yourxharsh19/PPO-preparation/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/yourxharsh19/PPO-preparation/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yourxharsh19/PPO-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -368,6 +369,7 @@ npm start
 | [0881-boats-to-save-people](https://github.com/yourxharsh19/PPO-preparation/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/yourxharsh19/PPO-preparation/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
