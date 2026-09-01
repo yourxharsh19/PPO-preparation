@@ -96,6 +96,7 @@ npm start
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yourxharsh19/PPO-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yourxharsh19/PPO-preparation/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yourxharsh19/PPO-preparation/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/3731-find-missing-elements) |
@@ -234,6 +235,7 @@ npm start
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yourxharsh19/PPO-preparation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yourxharsh19/PPO-preparation/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yourxharsh19/PPO-preparation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/3731-find-missing-elements) |
@@ -273,6 +275,7 @@ npm start
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yourxharsh19/PPO-preparation/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yourxharsh19/PPO-preparation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
@@ -508,6 +511,7 @@ npm start
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -564,6 +568,7 @@ npm start
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Nim Game
 |  |
 | ------- |
