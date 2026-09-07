@@ -4,7 +4,7 @@ class Solution {
         map.put(')', '(');
         map.put('}', '{');
         map.put(']', '[');
-        Deque<Character> stack = new ArrayDeque<>();
+        Stack<Character> stack = new Stack<>();
         for (char ch : s.toCharArray()) {
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
