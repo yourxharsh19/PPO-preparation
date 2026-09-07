@@ -120,6 +120,7 @@ npm start
 | [0451-sort-characters-by-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/yourxharsh19/PPO-preparation/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yourxharsh19/PPO-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -323,6 +324,7 @@ npm start
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yourxharsh19/PPO-preparation/tree/master/1510-stone-game-iv) |
