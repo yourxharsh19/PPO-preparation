@@ -518,6 +518,7 @@ npm start
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yourxharsh19/PPO-preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -630,4 +631,12 @@ npm start
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yourxharsh19/PPO-preparation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yourxharsh19/PPO-preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yourxharsh19/PPO-preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
