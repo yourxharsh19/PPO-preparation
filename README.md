@@ -91,6 +91,7 @@ npm start
 | [0904-fruit-into-baskets](https://github.com/yourxharsh19/PPO-preparation/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +124,7 @@ npm start
 | [0567-permutation-in-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/yourxharsh19/PPO-preparation/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yourxharsh19/PPO-preparation/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -157,6 +159,7 @@ npm start
 | [0973-k-closest-points-to-origin](https://github.com/yourxharsh19/PPO-preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -403,6 +406,7 @@ npm start
 | [0621-task-scheduler](https://github.com/yourxharsh19/PPO-preparation/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/yourxharsh19/PPO-preparation/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/yourxharsh19/PPO-preparation/tree/master/0881-boats-to-save-people) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/yourxharsh19/PPO-preparation/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/2091-removing-minimum-and-maximum-from-array) |
