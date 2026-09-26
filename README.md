@@ -202,6 +202,7 @@ npm start
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yourxharsh19/PPO-preparation/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/yourxharsh19/PPO-preparation/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
@@ -278,6 +279,7 @@ npm start
 | ------- |
 | [0002-add-two-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yourxharsh19/PPO-preparation/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/yourxharsh19/PPO-preparation/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yourxharsh19/PPO-preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
@@ -633,6 +635,7 @@ npm start
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/yourxharsh19/PPO-preparation/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/yourxharsh19/PPO-preparation/tree/master/0835-image-overlap) |
