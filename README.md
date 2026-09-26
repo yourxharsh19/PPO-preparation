@@ -540,6 +540,7 @@ npm start
 | [0021-merge-two-sorted-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/yourxharsh19/PPO-preparation/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yourxharsh19/PPO-preparation/tree/master/0160-intersection-of-two-linked-lists) |
