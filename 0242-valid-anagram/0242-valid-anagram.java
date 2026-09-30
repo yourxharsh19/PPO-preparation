@@ -10,6 +10,3 @@ class Solution {
        return Arrays.equals(ch1,ch2);
     }
 }
-
-        
-    
