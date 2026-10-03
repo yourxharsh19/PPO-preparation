@@ -116,6 +116,7 @@ npm start
 | [0008-string-to-integer-atoi](https://github.com/yourxharsh19/PPO-preparation/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0076-minimum-window-substring) |
@@ -365,6 +366,7 @@ npm start
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
@@ -604,6 +606,7 @@ npm start
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yourxharsh19/PPO-preparation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -621,6 +624,7 @@ npm start
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
