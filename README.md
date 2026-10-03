@@ -173,6 +173,7 @@ npm start
 | [0973-k-closest-points-to-origin](https://github.com/yourxharsh19/PPO-preparation/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1096-brace-expansion-ii) |
+| [1288-remove-covered-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -251,6 +252,7 @@ npm start
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/yourxharsh19/PPO-preparation/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
+| [1288-remove-covered-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
