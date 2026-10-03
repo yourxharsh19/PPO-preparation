@@ -251,6 +251,7 @@ npm start
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/yourxharsh19/PPO-preparation/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -377,6 +378,7 @@ npm start
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/yourxharsh19/PPO-preparation/tree/master/1510-stone-game-iv) |
@@ -664,6 +666,7 @@ npm start
 | [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/yourxharsh19/PPO-preparation/tree/master/0835-image-overlap) |
+| [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yourxharsh19/PPO-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Nim Game
