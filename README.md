@@ -85,6 +85,7 @@ npm start
 | [0290-word-pattern](https://github.com/yourxharsh19/PPO-preparation/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yourxharsh19/PPO-preparation/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@ npm start
 | [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/yourxharsh19/PPO-preparation/tree/master/0621-task-scheduler) |
@@ -236,6 +238,7 @@ npm start
 | [0217-contains-duplicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
