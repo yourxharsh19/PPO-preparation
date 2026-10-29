@@ -7,11 +7,11 @@ class Solution {
             int curr=Math.min(height[left],height[right]);
             int width=right-left;
             int area=curr*width;
-            max=Math.max(max,area);
+            max=Math.max(area,max);
             if(height[left]<height[right]){
                 left++;
             }
-            else{
+            else {
                 right--;
             }
         }
