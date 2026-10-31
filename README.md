@@ -225,6 +225,7 @@ npm start
 | [0018-4sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/yourxharsh19/PPO-preparation/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yourxharsh19/PPO-preparation/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/yourxharsh19/PPO-preparation/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/yourxharsh19/PPO-preparation/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/yourxharsh19/PPO-preparation/tree/master/0049-group-anagrams) |
@@ -384,6 +385,7 @@ npm start
 | [0018-4sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yourxharsh19/PPO-preparation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/yourxharsh19/PPO-preparation/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/yourxharsh19/PPO-preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0142-linked-list-cycle-ii) |
@@ -404,6 +406,7 @@ npm start
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yourxharsh19/PPO-preparation/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yourxharsh19/PPO-preparation/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/yourxharsh19/PPO-preparation/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
@@ -626,6 +629,7 @@ npm start
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yourxharsh19/PPO-preparation/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yourxharsh19/PPO-preparation/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yourxharsh19/PPO-preparation/tree/master/0155-min-stack) |
@@ -676,6 +680,7 @@ npm start
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yourxharsh19/PPO-preparation/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yourxharsh19/PPO-preparation/tree/master/0739-daily-temperatures) |
