@@ -234,6 +234,7 @@ npm start
 | [0055-jump-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/yourxharsh19/PPO-preparation/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yourxharsh19/PPO-preparation/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yourxharsh19/PPO-preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -567,6 +568,7 @@ npm start
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yourxharsh19/PPO-preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
@@ -731,6 +733,7 @@ npm start
 | [0048-rotate-image](https://github.com/yourxharsh19/PPO-preparation/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/yourxharsh19/PPO-preparation/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yourxharsh19/PPO-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
