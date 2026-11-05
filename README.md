@@ -185,6 +185,7 @@ npm start
 | [0977-squares-of-a-sorted-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yourxharsh19/PPO-preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -272,6 +273,7 @@ npm start
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yourxharsh19/PPO-preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -402,6 +404,7 @@ npm start
 | [0876-middle-of-the-linked-list](https://github.com/yourxharsh19/PPO-preparation/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/yourxharsh19/PPO-preparation/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yourxharsh19/PPO-preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/yourxharsh19/PPO-preparation/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -575,6 +578,7 @@ npm start
 | [0209-minimum-size-subarray-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/yourxharsh19/PPO-preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yourxharsh19/PPO-preparation/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/2089-find-target-indices-after-sorting-array) |
