@@ -271,6 +271,7 @@ npm start
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/yourxharsh19/PPO-preparation/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yourxharsh19/PPO-preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -462,6 +463,7 @@ npm start
 | [0347-top-k-frequent-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/yourxharsh19/PPO-preparation/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/yourxharsh19/PPO-preparation/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -474,6 +476,7 @@ npm start
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/yourxharsh19/PPO-preparation/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yourxharsh19/PPO-preparation/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
@@ -658,6 +661,7 @@ npm start
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yourxharsh19/PPO-preparation/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yourxharsh19/PPO-preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/yourxharsh19/PPO-preparation/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -667,6 +671,7 @@ npm start
 | [0104-maximum-depth-of-binary-tree](https://github.com/yourxharsh19/PPO-preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/yourxharsh19/PPO-preparation/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/yourxharsh19/PPO-preparation/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -741,6 +746,7 @@ npm start
 | [0073-set-matrix-zeroes](https://github.com/yourxharsh19/PPO-preparation/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yourxharsh19/PPO-preparation/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/yourxharsh19/PPO-preparation/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/yourxharsh19/PPO-preparation/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
