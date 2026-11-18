@@ -107,6 +107,7 @@ npm start
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yourxharsh19/PPO-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yourxharsh19/PPO-preparation/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yourxharsh19/PPO-preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yourxharsh19/PPO-preparation/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yourxharsh19/PPO-preparation/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -220,6 +221,7 @@ npm start
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yourxharsh19/PPO-preparation/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yourxharsh19/PPO-preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yourxharsh19/PPO-preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Array
 |  |
 | ------- |
@@ -310,6 +312,7 @@ npm start
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/yourxharsh19/PPO-preparation/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yourxharsh19/PPO-preparation/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yourxharsh19/PPO-preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3525-find-x-value-of-array-ii) |
@@ -359,6 +362,7 @@ npm start
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yourxharsh19/PPO-preparation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yourxharsh19/PPO-preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3524-find-x-value-of-array-i) |
@@ -450,6 +454,7 @@ npm start
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yourxharsh19/PPO-preparation/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yourxharsh19/PPO-preparation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yourxharsh19/PPO-preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/yourxharsh19/PPO-preparation/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/3693-climbing-stairs-ii) |
@@ -553,6 +558,7 @@ npm start
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/yourxharsh19/PPO-preparation/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/yourxharsh19/PPO-preparation/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/yourxharsh19/PPO-preparation/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bucket Sort
 |  |
 | ------- |
