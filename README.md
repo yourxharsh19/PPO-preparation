@@ -181,6 +181,7 @@ npm start
 | [0442-find-all-duplicates-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/yourxharsh19/PPO-preparation/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/yourxharsh19/PPO-preparation/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/yourxharsh19/PPO-preparation/tree/master/0881-boats-to-save-people) |
@@ -259,6 +260,7 @@ npm start
 | [0435-non-overlapping-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/yourxharsh19/PPO-preparation/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/yourxharsh19/PPO-preparation/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0560-subarray-sum-equals-k) |
@@ -341,6 +343,7 @@ npm start
 | [0007-reverse-integer](https://github.com/yourxharsh19/PPO-preparation/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/yourxharsh19/PPO-preparation/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yourxharsh19/PPO-preparation/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/yourxharsh19/PPO-preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/yourxharsh19/PPO-preparation/tree/master/0836-rectangle-overlap) |
