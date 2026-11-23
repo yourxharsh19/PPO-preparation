@@ -285,6 +285,7 @@ npm start
 | [1267-count-servers-that-communicate](https://github.com/yourxharsh19/PPO-preparation/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/yourxharsh19/PPO-preparation/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/yourxharsh19/PPO-preparation/tree/master/1301-number-of-paths-with-max-score) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yourxharsh19/PPO-preparation/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yourxharsh19/PPO-preparation/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -354,6 +355,7 @@ npm start
 | [0877-stone-game](https://github.com/yourxharsh19/PPO-preparation/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/yourxharsh19/PPO-preparation/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yourxharsh19/PPO-preparation/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/yourxharsh19/PPO-preparation/tree/master/1510-stone-game-iv) |
@@ -550,6 +552,7 @@ npm start
 | [0974-subarray-sums-divisible-by-k](https://github.com/yourxharsh19/PPO-preparation/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/yourxharsh19/PPO-preparation/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/yourxharsh19/PPO-preparation/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/yourxharsh19/PPO-preparation/tree/master/1872-stone-game-viii) |
@@ -746,6 +749,7 @@ npm start
 | [0232-implement-queue-using-stacks](https://github.com/yourxharsh19/PPO-preparation/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/yourxharsh19/PPO-preparation/tree/master/0622-design-circular-queue) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -756,6 +760,7 @@ npm start
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/yourxharsh19/PPO-preparation/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yourxharsh19/PPO-preparation/tree/master/1352-product-of-the-last-k-numbers) |
 ## Quicksort
 |  |
 | ------- |
